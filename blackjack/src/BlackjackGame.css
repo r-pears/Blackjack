@@ -1,0 +1,9 @@
+.BlackjackGame {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #009D19;
+  color: #fff;
+}
